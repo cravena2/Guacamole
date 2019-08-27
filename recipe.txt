@@ -1,4 +1,6 @@
 chop avocadoes
+chop onions
+Added onions
 squeeze limes
 mix well
 add salt
